@@ -7,5 +7,4 @@ A jack of trades with a focus on getting things moving and scaling what works.
 - 🧭 Startup ops & project delivery (PMP)
 - 🤝 Community building
 
-Currently at **Workbrew** — helping teams manage and scale Homebrew with confidence.  
-🔗 https://workbrew.com
+Currently at **[Workbrew](https://workbrew.com)** — helping teams manage and scale Homebrew with confidence.  
